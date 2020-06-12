@@ -1,14 +1,17 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
+//这个跟Jcenter一样的插件
+apply plugin: 'com.github.dcendents.android-maven'
+//你的Github用户名替换一下
+group='com.github.zxfPeak'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.2"
+    compileSdkVersion configs.compileSdkVersion
+    buildToolsVersion configs.buildToolsVersion
     defaultConfig {
-        applicationId "com.zxf.lib_androidx"
-        minSdkVersion 19
-        targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion configs.minSdkVersion
+        targetSdkVersion configs.targetSdkVersion
+        versionCode configs.versionCode
+        versionName configs.versionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
