@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Lib_test</string>
+
+    <string name="loading" translatable="false">加载中...</string>
+    <string name="not_network" translatable="false">网络连接不可用</string>
+
+    <!--easypermissions用到的资源======================================-->
+    <string name="rationale_ask" translatable="false">This app may not work correctly without the requested permissions.</string>
+    <string name="rationale_ask_again" translatable="false">
+        因没有必要的权限，APP可能无法正常工作。
+        请打开应用程序设置来修改应用权限。
+    </string>
+    <string name="title_settings_dialog" translatable="false">Permissions Required</string>
+
+
+    <!--    =======================================APK升级所需的文本=======================================-->
+    <string name="android_auto_update_dialog_title" translatable="false">发现新版本</string>
+
+    <string name="android_auto_update_notify_ticker" translatable="false">发现新版本,点击进行升级</string>
+    <string name="android_auto_update_notify_content" translatable="false">发现新版本,点击进行升级</string>
+
+    <string name="android_auto_update_dialog_btn_download" translatable="false">立即下载</string>
+    <string name="android_auto_update_dialog_btn_cancel" translatable="false">以后再说</string>
+
+    <string name="android_auto_update_toast_no_new_update" translatable="false">已经是最新版本</string>
+
+    <string name="android_auto_update_download_progress" translatable="false">正在下载:%1$d%%</string>
+
+    <string name="android_auto_update_dialog_checking" translatable="false">正在检查版本</string>
+
+
+    <!--自定义Calendar-->
+    <string-array name="lunar_first_of_month">
+        <item>春节</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>腊月</item>
+    </string-array>
+
+    <string-array name="tradition_festival">
+        <item>除夕</item>
+        <item>0101春节</item>
+        <item>0115元宵</item>
+        <item>0505端午</item>
+        <item>0707七夕</item>
+        <item>0815中秋</item>
+        <item>0909重阳</item>
+    </string-array>
+
+    <string-array name="lunar_str">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+
+    <string-array name="solar_festival">
+        <item>0101元旦</item>
+        <item>0214情人节</item>
+        <item>0308妇女节</item>
+        <item>0312植树节</item>
+        <item>0315消权日</item>
+        <item>0401愚人节</item>
+        <item>0422地球日</item>
+        <item>0501劳动节</item>
+        <item>0504青年节</item>
+        <item>0601儿童节</item>
+        <item>0701建党节</item>
+        <item>0801建军节</item>
+        <item>0910教师节</item>
+        <item>1001国庆节</item>
+        <item>1031万圣节</item>
+        <item>1111光棍节</item>
+        <item>1224平安夜</item>
+        <item>1225圣诞节</item>
+    </string-array>
+
+    <string-array name="solar_term">
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+    </string-array>
+
+    <string-array name="special_festivals">
+        <item>母亲节</item>
+        <item>父亲节</item>
+        <item>感恩节</item>
+    </string-array>
+
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+
+    <string-array name="week_string_array">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+
+    <string-array name="month_string_array">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/flash_light" />
+    <corners android:radius="18dp" />
+    <!--<padding android:bottom="10dp" />-->
+    <!--<padding android:top="10dp" />-->
+    <!--<padding android:left="25dp" />-->
+    <!--<padding android:right="25dp" />-->
+</shape>

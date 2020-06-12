@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="red">#F55652</color>
+    <color name="line">#DDDDDD</color>
+    <color name="verticalLine">#CCCCCC</color>
+
+
+    <color name="countDownText">#999999</color>
+    <color name="bg_statusBar">#029F90</color>
+    <color name="bg_common">#09C5B3</color>
+    <color name="bg_toast">#CCCCCC</color>
+    <color name="bg_titleBar">#09C5B3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_40">#40ffffff</color>
+    <color name="flash_light">#4000</color>
+    <color name="textCommonColor">#404040</color>
+    <color name="bg_bottom">#F2F6F8</color>
+    <color name="stateSuccess">#40B3FD</color>
+    <color name="stateFailure">#F36060</color>
+    <color name="btn_click_false">#D8E0E5</color>
+    <color name="gray_c7">#c7c7c7</color>
+    <color name="gray_73">#737373</color>
+    <color name="waittingCheckColor">#FF9053</color>
+
+
+    <!-- QR_Code -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#ffffff</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="system_bar_color">#fed952</color>
+    <color name="colorPrimaryDayDark">#008F81</color>
+
+
+    <color name="colorPrimaryWhite">#ffffff</color>
+    <color name="colorPrimaryWhiteDark">#dddddd</color>
+    <color name="colorAccentWhite">#6A68FF</color>
+
+    <color name="colorPrimaryGray">#777</color>
+    <color name="colorPrimaryGrayDark">#333</color>
+    <color name="colorAccentGray">#6A68FF</color>
+
+    <color name="appBlue">#6A68FF</color>
+
+    <color name="transparent">#0fff</color>
+    <color name="transparent_i">#4fff</color>
+    <color name="transparent_ii">#8fff</color>
+    <color name="transparent_iii">#cfff</color>
+
+    <color name="white_gray">#ccc</color>
+    <color name="gray">#888</color>
+    <color name="dark_gray">#444</color>
+
+
+    <color name="current_month_text_color">#333333</color>
+    <color name="other_month_text_color">#999999</color>
+    <color name="week_text_color">#999999</color>
+
+</resources>
